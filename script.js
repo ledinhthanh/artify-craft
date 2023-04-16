@@ -1,6 +1,7 @@
-var appName = "Stacy";
-var storeUrl = "https://1.envato.market/YgR1Xj";
-var date = "2021-08-04";
+var appName = "Taearn";
+var storeUrl =
+  "https://codecanyon.net/item/taearn-make-money-flutter-app/44937626";
+var date = "2023-04-11";
 
 function onIndexLoad() {
   document.title = appName + " Flutter";

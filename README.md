@@ -1,9 +1,9 @@
-# stacy
+# taearn
 
 ## Policy
 
-https://timivietnam.github.io/taearn/policy.html
+https://ditustudio.github.io/taearn/policy.html
 
 ## Term
 
-https://timivietnam.github.io/taearn/term.html
+https://ditustudio.github.io/taearn/term.html
