@@ -1,7 +1,9 @@
 # stacy
 
 ## Policy
-https://timivietnam.github.io/stacy/policy.html
+
+https://timivietnam.github.io/taearn/policy.html
 
 ## Term
-https://timivietnam.github.io/stacy/term.html
+
+https://timivietnam.github.io/taearn/term.html
