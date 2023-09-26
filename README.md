@@ -1,9 +1,9 @@
-# taearn
+# Saveet
 
 ## Policy
 
-https://ditustudio.github.io/taearn/policy.html
+https://ditustudio.github.io/Saveet/policy.html
 
 ## Term
 
-https://ditustudio.github.io/taearn/term.html
+https://ditustudio.github.io/Saveet/term.html
