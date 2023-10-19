@@ -2,8 +2,8 @@
 
 ## Policy
 
-https://ditustudio.github.io/Saveet/policy.html
+https://ditustudio.github.io/faceswap/policy.html
 
 ## Term
 
-https://ditustudio.github.io/Saveet/term.html
+https://ditustudio.github.io/faceswap/term.html
