@@ -1,6 +1,6 @@
-var appName = "Saveet";
+var appName = "FaceSwap";
 var storeUrl =
-    "https://codecanyon.net/item/Saveet-make-money-flutter-app/44937626";
+    "https://codecanyon.net/item/FaceSwap-make-money-flutter-app/44937626";
 var date = "2023-04-11";
 
 function onIndexLoad() {
