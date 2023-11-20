@@ -1,6 +1,6 @@
-var appName = "FaceSwap";
+var appName = "AI Gen Vision";
 var storeUrl =
-    "https://codecanyon.net/item/FaceSwap-make-money-flutter-app/44937626";
+    "https://codecanyon.net/item/AI Gen Vision-make-money-flutter-app/44937626";
 var date = "2023-04-11";
 
 function onIndexLoad() {
