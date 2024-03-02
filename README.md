@@ -2,8 +2,8 @@
 
 ## Policy
 
-https://ditustudio.github.io/aigenvision/policy.html
+https://ledinhthanh.github.io/artify-craft/policy.html
 
 ## Term
 
-https://ditustudio.github.io/aigenvision/term.html
+https://ledinhthanh.github.io/artify-craft/term.html
